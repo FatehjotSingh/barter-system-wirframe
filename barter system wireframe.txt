@@ -1,0 +1,29 @@
+Purposes
+_________
+>place request for item
+>donate item
+>search requests
+>administrator
+
+>Admn perspective
+===================
+
+.signup and login to non admins
+.restrict item requests to one item per person at a time
+
+>Donor perspective
+=====================
+
+.login
+.request item of choice by filling a form
+		.item
+		.address
+		.username
+.look at all active item requests to chose the reciever to donate to
+.filter requests using search option
+.visible address of the reciver in question
+.send notification when request has been started/fulfilled
+.notified when reciver gets item
+.recieve notification when donor starts request/sends item
+."thank you" option to the donor
+.cancel request option
